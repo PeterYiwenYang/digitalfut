@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: rgb(83, 131, 146);
+}
+.titulo{
+  display:flex;
+  justify-content: conten;
+  align-items: conten;
+  background-color: rgb(22, 121, 171,0.3);
+  border: 5px solid white;
+}
+.titulo p{
+  font-size: 50px;
+  font-weight: bold;
+  color:rgb(26, 33, 48)
+}
+.subtitulo p{
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(26, 33, 48)
+}
+.conten1{
+  display:flex;
+  justify-content: conten;
+  align-items: conten;
+  background-color: rgb(22, 121, 171,0.3);
+  border: 5px solid white;
+  
+}
+.conten1 img{
+  height: 250px;
+  margin: 20px;
+}
+.conten1 p{
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 2.0;
+  color:rgb(26, 33, 48)
+  margin: 20px;
+}
